@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CrescereDev
-- 👀 I’m interested in JS, CPP and PY
-- 🌱 I’m currently learning JS, CPP and PY
+- 🌱 I’m currently learning JS and PY
 - 💞️ I’m looking to collaborate on my project
 
 <!---
